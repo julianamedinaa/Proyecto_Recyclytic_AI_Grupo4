@@ -22,13 +22,16 @@ El reciclaje suele dividirse en tres etapas:
 
   ![image](https://github.com/user-attachments/assets/fbadf4d8-2708-47df-b7b4-67710ed93743)
 
+
+
 #
 
 ### **¿Qué es la RECYCLYTIC AI?**
 
 **RECYCLYTIC AI** es un sistema de clasificación automatizada con el propósito de optimizar la separacion de residuos reciclables en la empresa ECOOReciclaje S.A.S., mejorando la eficiencia operativa y reduciendo errores en el proceso de separación de materiales.
 
-  ** PONER FOTO DE LA INTERFAZ GRAFICA** 
+ ![image](https://github.com/user-attachments/assets/281d4bfe-0d91-46b7-89c4-4d263e4b26cc)
+
 #
 
 ### **Propósito y Funcionalidades Principales**
